@@ -94,6 +94,17 @@ li{
     cursor: pointer;
 }
 
+@media (min-width:768px) {
+    li{
+        margin-right: 10px;
+    }
+
+    #demo{
+        font-size: 61px;
+    }
+}
+
+
 
 
 
